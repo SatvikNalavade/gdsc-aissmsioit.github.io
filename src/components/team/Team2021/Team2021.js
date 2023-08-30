@@ -174,17 +174,6 @@ const Team2021 = () => {
               />
               <h5 className="mt-4">Dr. K. S. Wagh Sir</h5>
               <span></span>
-              <div className="social-ico">
-                <a target="_blank" rel="noreferrer" href="#0">
-                  <i className="fa fa-linkedin ico-link"></i>
-                </a>
-                <a target="_blank" rel="noreferrer" href="#0">
-                  <i className="fa fa-github ico-github"></i>
-                </a>
-                <a target="_blank" rel="noreferrer" href="#0">
-                  <i className="fa fa-instagram ico-insta"></i>
-                </a>
-              </div>
             </div>
           </div>
         </Fade>

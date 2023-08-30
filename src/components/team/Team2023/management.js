@@ -21,6 +21,7 @@ const Management = [
     linkedin: "",
     instagram: "https://instagram.com/_harshmeshram_?igshid=MzRlODBiNWFlZA",
     github: "",
+	twitter: "https://twitter.com/_harshmeshram_",
     link: "",
   },
   {

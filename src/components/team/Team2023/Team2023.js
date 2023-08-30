@@ -167,13 +167,6 @@ const Team2023 = () => {
                 >
                   <i className="fa fa-instagram ico-insta"></i>
                 </a>
-                <a
-                  href=""
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <i className="fa fa-link ico-link"></i>
-                </a>
               </div>
             </div>
             <div className="col-lg-6 col-sm-6 teams">
@@ -187,17 +180,6 @@ const Team2023 = () => {
               />
               <h5 className="mt-4">Dr. K. S. Wagh Sir</h5>
               <span></span>
-              <div className="social-ico">
-                <a target="_blank" rel="noreferrer" href="#0">
-                  <i className="fa fa-linkedin ico-link"></i>
-                </a>
-                <a target="_blank" rel="noreferrer" href="#0">
-                  <i className="fa fa-github ico-github"></i>
-                </a>
-                <a target="_blank" rel="noreferrer" href="#0">
-                  <i className="fa fa-instagram ico-insta"></i>
-                </a>
-              </div>
             </div>
           </div>
         </Fade>
